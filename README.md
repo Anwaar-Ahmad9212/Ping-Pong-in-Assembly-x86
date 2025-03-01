@@ -59,7 +59,12 @@ nasm -f bin pingpong.asm -o pingpong.com
 # Run the game (in DOSBox or real mode)
 dosbox pingpong.com
 ```
-
+## 📂 Installation & Usage
+```bash
+# Clone the repository
+git clone https://github.com/Anwaar-Ahmad9212/Ping-Pong-in-Assembly-x86
+```
+---
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify it.
 
