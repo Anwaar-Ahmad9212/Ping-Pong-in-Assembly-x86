@@ -39,9 +39,13 @@ This project is a **classic Ping Pong game** built using **Assembly (NASM)**. It
 - **Winning Condition:** First player to reach a set number of points (default: 5).
 
 ### ⏸️ Pause/Resume
-- Press **'P'** to pause or unpause the game.
+- Press **'ESC'** to pause or unpause the game.
 - Game freezes during pause, including ball and paddle movement.
 
+### Sound 🔊🔊
+- Also sound is addes when any player scores
+
+  
 ### 🎮 Game Loop & Board Rendering
 - Screen is **cleared and redrawn** each iteration.
 - **Walls, paddles, and ball** are re-rendered for a smooth experience.
