@@ -43,7 +43,7 @@ This project is a **classic Ping Pong game** built using **Assembly (NASM)**. It
 - Game freezes during pause, including ball and paddle movement.
 
 ### Sound 🔊🔊
-- Also sound is addes when any player scores
+- Also sound is added when any player scores
 
   
 ### 🎮 Game Loop & Board Rendering
